@@ -1,5 +1,5 @@
 {
-  "name": "inputtypes",
+  "name": "html-inputtypes",
   "version": "1.0.0",
   "description": "A tiny packacge to specify HTML input types in a cleaner way",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olaar09/inputtypes.git"
+    "url": "git+https://github.com/olaar09/HTMLInpuTtypes"
   },
   "keywords": [
     "ReactJS",
@@ -20,15 +20,13 @@
   "author": "Agboola Yusuf",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olaar09/inputtypes/issues"
+    "url": "https://github.com/olaar09/HTMLInpuTtypes/issues"
   },
-  "homepage": "https://github.com/olaar09/inputtypes#readme",
+  "homepage": "https://github.com/olaar09/HTMLInpuTtypes#readme",
   "devDependencies": {
     "@types/jest": "^24.0.13",
     "ts-jest": "^24.0.2",
-    "typescript": "^3.4.5"
-  },
-  "dependencies": {
+    "typescript": "^3.4.5",
     "jest": "^24.8.0"
   }
 }
