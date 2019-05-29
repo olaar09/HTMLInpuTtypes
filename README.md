@@ -11,9 +11,10 @@ npm install -save html-inputtypes
 import INPUT_TYPES from 'html-inputtypes';
 
 # use package (React example)
-{::nomarkdown}
+
+```html
 <input type={INPUT_TYPES.TEXT}></input>
-{:/}
+```
 
 # Available types
 
