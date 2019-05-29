@@ -1,6 +1,6 @@
 {
   "name": "html-inputtypes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny packacge to specify HTML input types in a cleaner way",
   "main": "index.js",
   "scripts": {
