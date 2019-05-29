@@ -1,0 +1,28 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var HTMLInputs;
+(function (HTMLInputs) {
+    HTMLInputs["TEXT"] = "text";
+    HTMLInputs["PASSWORD"] = "password";
+    HTMLInputs["NUMBER"] = "number";
+    HTMLInputs["CHECKBOX"] = "checkbox";
+    HTMLInputs["COLOR"] = "color";
+    HTMLInputs["DATE"] = "date";
+    HTMLInputs["DATE_TIME_LOCAL"] = "datetime-local";
+    HTMLInputs["EMAIL"] = "email";
+    HTMLInputs["FILE"] = "file";
+    HTMLInputs["HIDDEN"] = "hidden";
+    HTMLInputs["IMAGE"] = "image";
+    HTMLInputs["MONTH"] = "month";
+    HTMLInputs["RADIO"] = "radio";
+    HTMLInputs["RANGE"] = "range";
+    HTMLInputs["RESET"] = "reset";
+    HTMLInputs["SEARCH"] = "search";
+    HTMLInputs["SUBMIT"] = "submit";
+    HTMLInputs["TEL"] = "tel";
+    HTMLInputs["TIME"] = "text";
+    HTMLInputs["URL"] = "url";
+    HTMLInputs["WEEK"] = "week";
+})(HTMLInputs || (HTMLInputs = {}));
+exports.HTMLInputTypesLength = 21;
+exports.default = HTMLInputs;
