@@ -2,18 +2,18 @@
 
 A tiny packacge to specify HTML input types in a cleaner way.
 
-#Usage
+# Usage
 
-#Install package
+# Install package
 npm install -save html-inputtypes
 
-#import package
+# import package
 import INPUT_TYPES from 'html-inputtypes';
 
-#use package (React example)
+# use package (React example)
 <input type={INPUT_TYPES.TEXT}>
 
-#Available types
+# Available types
 
     TEXT = "text",\
     PASSWORD = "password",\
